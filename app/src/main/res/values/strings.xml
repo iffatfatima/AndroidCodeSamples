@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeSamples</string>
+    <string name="permission_required_text">Grant permission to access all application functions</string>
+    <string name="dialog_permission_title">Permission Request</string>
+    <string name="dialog_permission_default_message">Grant permission to access features</string>
+    <string name="dialog_permission_button_positive">Okay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
